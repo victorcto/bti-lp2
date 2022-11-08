@@ -30,3 +30,4 @@ Repositório contendo os códigos feitos por mim na disciplina de Linguagem de P
 - [Programa de Saúde](#) ![](https://img.shields.io/badge/F%C3%A1cil-blue)
 - [Carbon Footprint](#) ![](https://img.shields.io/badge/F%C3%A1cil-blue)
 - [Imposto de Renda](#) ![](https://img.shields.io/badge/F%C3%A1cil-blue)
+- [Controle de velocidade](#) ![](https://img.shields.io/badge/F%C3%A1cil-blue)
